@@ -1,21 +1,20 @@
 # Algoritmos e Estruturas de Dados
 
 ## 📌 Descrição
-Este repositório contém implementações de algoritmos clássicos e estruturas de dados fundamentais, amplamente utilizados em computação e desenvolvimento de software. Os algoritmos estão organizados por categorias e implementados em diferentes linguagens de programação, proporcionando uma abordagem prática e teórica para estudo e aplicação.
+Este repositório contém implementações de algoritmos clássicos e estruturas de dados fundamentais, amplamente utilizados em computação e desenvolvimento de software. Os algoritmos estão organizados por categorias e implementados na linguagem de programação Java, proporcionando uma abordagem prática e teórica para estudo e aplicação.
 
 ## 📂 Estrutura do Repositório
 ```
 📂 algoritmos-e-estruturas-de-dados
 │── 📂 src
-│ │── 📂 java
-│ │ │── 📂 jogos_turnos
-│ │ │ │── 📄 enunciado.md
-│ │ │ │── 📄 Main.java
-│ │ │ │── 📄 Lutador.java
-│ │ │── 📂 ordenacao
-│ │ │ │── 📄 enunciado.md
-│ │ │ │── 📄 BubbleSort.java
-│ │ │ │── 📄 QuickSort.java
+│   │── 📂 jogos_turnos
+│   │   │── 📄 enunciado.md
+│   │   │── 📄 Main.java
+│   │   │── 📄 Lutador.java
+│   │── 📂 ordenacao
+│   │   │── 📄 enunciado.md
+│   │   │── 📄 BubbleSort.java
+│   │   │── 📄 QuickSort.java
 │── 📄 README.md
 ```
 
