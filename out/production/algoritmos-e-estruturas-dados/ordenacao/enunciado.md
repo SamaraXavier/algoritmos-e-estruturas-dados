@@ -7,7 +7,7 @@ Deseja-se realizar a implementação de algoritmos de ordenação, explorando di
 
 ## Algoritmos
 
-1. Implemente, em uma Linguagem de Programação, o algoritmo **Mergesort**, que recebe um vetor de dados de tamanho M, completamente preenchido pelo usuário, como entrada. Implemente as Estruturas de Dados básicas necessárias. Imprima o vetor de dados original (passado como entrada ao algoritmo). Ao final de cada execução do procedimento merge, o vetor de dados modificado deve ser impresso.
+1. Implemente, em uma Linguagem de Programação, o algoritmo **Mergesort**, que recebe um vetor de dados de tamanho M, completamente preenchido pelo usuário, como entrada. Implemente as Estruturas de Dados básicas necessárias. Imprima o vetor de dados original (passado como entrada ao algoritmo). Ao final de cada execução do procedimento merge, o vetor de dados modificado deve ser impresso, assim como a quantidade de trocas realizadas em cada.
 
 ---
 
@@ -16,3 +16,7 @@ Deseja-se realizar a implementação de algoritmos de ordenação, explorando di
 ---
 
 3. Implemente, em uma Linguagem de Programação, o algoritmo **Heapsort**, que recebe um vetor de dados de tamanho M, completamente preenchido pelo usuário, como entrada. Implemente as Estruturas de Dados básicas necessárias. Imprima o vetor de dados original (passado como entrada ao algoritmo). Imprima o vetor de dados gerado após a execução do procedimento construirMaxHeap. Ao final de cada execução do procedimento maxHeapfy, o vetor de dados modificado deve ser impresso. Imprima o número total de vezes que o procedimento trocar é utilizado durante a execução do algoritmo. Imprima o número total de vezes que o procedimento maxHeapfy é utilizado durante a execução do algoritmo.
+
+---
+
+4. Implemente, em uma Linguagem de Programação, o algoritmo **Insertionsort**, que recebe um vetor de dados de tamanho M, completamente preenchido pelo usuário, como entrada. Implemente as Estruturas de Dados básicas necessárias. Imprima o vetor de dados original (passado como entrada ao algoritmo). Ao final de cada execução do for, o vetor de dados modificado deve ser impresso.
